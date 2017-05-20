@@ -1,8 +1,6 @@
-/* Author Name: Mohamed Elshenawy
- * Last Edit 28th July 2016
- * fast fibonacci calculation
- * This is the solution for Coursera Algorithm & Data sturcter course , Assignment for week 2 problem 2. 
- */
+/* Author: Mohamed Elshenawy 
+   Date 19/5/2017
+*/
 
 #include <iostream>
 #include <vector>
